@@ -4,36 +4,36 @@
     "version": "42c50b5b"
   },
   "products": [
-    { "id": 1, "name": "Laptop Pro 15", "category": "electronics", "price": 45000.50, "stock": 1, "rating": 4.5 },
-    { "id": 2, "name": "Smartphone X", "category": "electronics", "price": 30200.31, "stock": 1, "rating": 4.4 },
-    { "id": 3, "name": "Bluetooth Headphones", "category": "electronics", "price": 30115.00, "stock": 1, "rating": 4.3 },
+    { "id": "prod-42c50b5b-001", "name": "Laptop Pro 15", "category": "electronics", "price": 45000.50, "stock": 1, "rating": 4.5 },
+    { "id": "prod-42c50b5b-002", "name": "Smartphone X", "category": "electronics", "price": 30200.31, "stock": 1, "rating": 4.4 },
+    { "id": "prod-42c50b5b-003", "name": "Bluetooth Headphones", "category": "electronics", "price": 30115.00, "stock": 1, "rating": 4.3 },
 
-    { "id": 4, "name": "Running Shoes", "category": "fashion", "price": 2999.99, "stock": 10, "rating": 4.2 },
-    { "id": 5, "name": "Jeans", "category": "fashion", "price": 1999.50, "stock": 20, "rating": 4.0 },
-    { "id": 6, "name": "T-Shirt", "category": "fashion", "price": 799.99, "stock": 50, "rating": 4.1 },
+    { "id": "prod-42c50b5b-004", "name": "Running Shoes", "category": "fashion", "price": 2999.99, "stock": 10, "rating": 4.2 },
+    { "id": "prod-42c50b5b-005", "name": "Jeans", "category": "fashion", "price": 1999.50, "stock": 20, "rating": 4.0 },
+    { "id": "prod-42c50b5b-006", "name": "T-Shirt", "category": "fashion", "price": 799.99, "stock": 50, "rating": 4.1 },
 
-    { "id": 7, "name": "Office Chair", "category": "furniture", "price": 8500.00, "stock": 5, "rating": 4.3 },
-    { "id": 8, "name": "Dining Table", "category": "furniture", "price": 15000.00, "stock": 2, "rating": 4.5 },
-    { "id": 9, "name": "Bookshelf", "category": "furniture", "price": 6000.00, "stock": 4, "rating": 4.2 },
+    { "id": "prod-42c50b5b-007", "name": "Office Chair", "category": "furniture", "price": 8500.00, "stock": 5, "rating": 4.3 },
+    { "id": "prod-42c50b5b-008", "name": "Dining Table", "category": "furniture", "price": 15000.00, "stock": 2, "rating": 4.5 },
+    { "id": "prod-42c50b5b-009", "name": "Bookshelf", "category": "furniture", "price": 6000.00, "stock": 4, "rating": 4.2 },
 
-    { "id": 10, "name": "Water Bottle", "category": "home", "price": 499.99, "stock": 100, "rating": 4.6 },
-    { "id": 11, "name": "Mixer Grinder", "category": "home", "price": 3499.00, "stock": 8, "rating": 4.1 },
-    { "id": 12, "name": "Pressure Cooker", "category": "home", "price": 2499.00, "stock": 6, "rating": 4.4 },
+    { "id": "prod-42c50b5b-010", "name": "Water Bottle", "category": "home", "price": 499.99, "stock": 100, "rating": 4.6 },
+    { "id": "prod-42c50b5b-011", "name": "Mixer Grinder", "category": "home", "price": 3499.00, "stock": 8, "rating": 4.1 },
+    { "id": "prod-42c50b5b-012", "name": "Pressure Cooker", "category": "home", "price": 2499.00, "stock": 6, "rating": 4.4 },
 
-    { "id": 13, "name": "Cricket Bat", "category": "sports", "price": 3200.00, "stock": 7, "rating": 4.3 },
-    { "id": 14, "name": "Football", "category": "sports", "price": 1200.00, "stock": 15, "rating": 4.2 },
-    { "id": 15, "name": "Yoga Mat", "category": "sports", "price": 899.00, "stock": 25, "rating": 4.5 },
+    { "id": "prod-42c50b5b-013", "name": "Cricket Bat", "category": "sports", "price": 3200.00, "stock": 7, "rating": 4.3 },
+    { "id": "prod-42c50b5b-014", "name": "Football", "category": "sports", "price": 1200.00, "stock": 15, "rating": 4.2 },
+    { "id": "prod-42c50b5b-015", "name": "Yoga Mat", "category": "sports", "price": 899.00, "stock": 25, "rating": 4.5 },
 
-    { "id": 16, "name": "Notebook", "category": "stationery", "price": 120.00, "stock": 200, "rating": 4.7 },
-    { "id": 17, "name": "Pen Set", "category": "stationery", "price": 250.00, "stock": 150, "rating": 4.6 },
-    { "id": 18, "name": "Backpack", "category": "stationery", "price": 1499.00, "stock": 30, "rating": 4.3 },
+    { "id": "prod-42c50b5b-016", "name": "Notebook", "category": "stationery", "price": 120.00, "stock": 200, "rating": 4.7 },
+    { "id": "prod-42c50b5b-017", "name": "Pen Set", "category": "stationery", "price": 250.00, "stock": 150, "rating": 4.6 },
+    { "id": "prod-42c50b5b-018", "name": "Backpack", "category": "stationery", "price": 1499.00, "stock": 30, "rating": 4.3 },
 
-    { "id": 19, "name": "Face Wash", "category": "beauty", "price": 299.00, "stock": 40, "rating": 4.1 },
-    { "id": 20, "name": "Perfume", "category": "beauty", "price": 1999.00, "stock": 12, "rating": 4.4 },
-    { "id": 21, "name": "Lipstick", "category": "beauty", "price": 799.00, "stock": 25, "rating": 4.2 },
+    { "id": "prod-42c50b5b-019", "name": "Face Wash", "category": "beauty", "price": 299.00, "stock": 40, "rating": 4.1 },
+    { "id": "prod-42c50b5b-020", "name": "Perfume", "category": "beauty", "price": 1999.00, "stock": 12, "rating": 4.4 },
+    { "id": "prod-42c50b5b-021", "name": "Lipstick", "category": "beauty", "price": 799.00, "stock": 25, "rating": 4.2 },
 
-    { "id": 22, "name": "Toy Car", "category": "toys", "price": 599.00, "stock": 35, "rating": 4.5 },
-    { "id": 23, "name": "Board Game", "category": "toys", "price": 1299.00, "stock": 18, "rating": 4.6 }
+    { "id": "prod-42c50b5b-022", "name": "Toy Car", "category": "toys", "price": 599.00, "stock": 35, "rating": 4.5 },
+    { "id": "prod-42c50b5b-023", "name": "Board Game", "category": "toys", "price": 1299.00, "stock": 18, "rating": 4.6 }
   ],
   "aggregations": {
     "electronics": {
